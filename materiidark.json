@@ -2,7 +2,7 @@
   "manifest": {
     "version": "1.0.0",
     "author": "LampDelivery",
-    "name": "Materii",
+    "name": "Materii dark",
     "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/Materii\/main\/materii.json",
     "license": "GPL-3.0 License"
   },
